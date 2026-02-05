@@ -1,0 +1,5 @@
+2026-02-02 15:41:06,980 | INFO | BinanceClient | Binance Futures Testnet client initialized
+2026-02-02 15:41:06,981 | INFO | OrderService | Placing MARKET order for BTCUSDT
+2026-02-02 15:41:06,982 | INFO | BinanceClient | Order Request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-02 15:41:06,982 | ERROR | BinanceClient | Binance API error
+AssertionError: API Secret required for private endpoints
